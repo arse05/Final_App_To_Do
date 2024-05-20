@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\raw_loading.json.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\raw\\loading.json"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_ic_view_list.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\ic_view_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_info.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\layout_weather.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\layout\\weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_sunrise.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\sunrise.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable-ldpi_ic_temp.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-pngs-29:\\drawable-ldpi\\ic_temp.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_ic_sort.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\ic_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_humidity.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_sunset.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\sunset.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable-hdpi_ic_temp.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-pngs-29:\\drawable-hdpi\\ic_temp.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable-anydpi-v24_ic_temp.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-pngs-29:\\drawable-anydpi-v24\\ic_temp.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_ic_add_circle.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\font_ubuntu_mono_regular.ttf.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\font\\ubuntu_mono_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_pressure.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\pressure.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\layout_view_task_grid_layout.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\layout\\view_task_grid_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_gradient_bg.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\layout_add_task_dialog.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\layout\\add_task_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_ic_weather.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\ic_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\layout_view_task_list_layout.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\layout\\view_task_list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable-xxxhdpi_ic_temp.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-pngs-29:\\drawable-xxxhdpi\\ic_temp.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable-xxhdpi_ic_temp.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-pngs-29:\\drawable-xxhdpi\\ic_temp.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-anydpi-v26\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\layout_update_task_dialog.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\layout\\update_task_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_wind.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable-xhdpi_ic_temp.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-pngs-29:\\drawable-xhdpi\\ic_temp.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_ic_view_module.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\ic_view_module.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable-mdpi_ic_temp.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-pngs-29:\\drawable-mdpi\\ic_temp.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.png.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-anydpi-v26\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.coding.meet.todo_app-merged_res-33:/layout_weather.xml.flat",
+        "source": "com.coding.meet.todo_app-main-35:/layout/weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\layout_loading_dialog.xml.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    }
+]

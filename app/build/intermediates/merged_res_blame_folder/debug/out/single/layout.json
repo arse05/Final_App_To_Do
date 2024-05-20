@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.coding.meet.todo_app-mergeDebugResources-32:/layout/weather.xml",
+        "source": "com.coding.meet.todo_app-main-35:/layout/weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-mergeDebugResources-32:\\layout\\view_task_grid_layout.xml",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\layout\\view_task_grid_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-mergeDebugResources-32:\\layout\\weather.xml",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\layout\\weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-mergeDebugResources-32:\\layout\\update_task_dialog.xml",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\layout\\update_task_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-mergeDebugResources-32:\\layout\\view_task_list_layout.xml",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\layout\\view_task_list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-mergeDebugResources-32:\\layout\\add_task_dialog.xml",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\layout\\add_task_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-mergeDebugResources-32:\\layout\\loading_dialog.xml",
+        "source": "C:\\Users\\arse2\\.gradle\\daemon\\8.0\\com.coding.meet.todo_app-main-35:\\layout\\loading_dialog.xml"
+    }
+]
